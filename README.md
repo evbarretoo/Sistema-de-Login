@@ -6,7 +6,7 @@
 </div><br>
 
 <div>
-  <h2>Instruções Recebidas</h2>
+  <h3>Instruções Recebidas</h3>
   <p><b>Crie um sistema de login utilizando o email para logar.</b></p>
   Observações sobre o projeto:<br>
   - O usuário deverá logar utilizando o email "admin@admin.com" e senha "1234".<br>
@@ -16,6 +16,6 @@
 </div><br>
 
 <div>
-    <p>Resultado</p>
+    <h3>Resultado</h3>
     <img src="https://i.imgur.com/Mr0y7Zx.png" alt="tela 1">
 </div><br>
