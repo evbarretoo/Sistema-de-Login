@@ -7,7 +7,7 @@
 
 <div>
   <h2>Instruções Recebidas</h2>
-  <p><b>Crie um sistema de login utilizando o email para logar. Segue abaixo as imagens de exemplo:</b></p>
+  <p><b>Crie um sistema de login utilizando o email para logar.</b></p>
   Observações sobre o projeto:<br>
   - O usuário deverá logar utilizando o email "admin@admin.com" e senha "1234".<br>
   - O projeto deverá está centralizado na tela, então olhem sobre display:flex no W3Schools.<br>
