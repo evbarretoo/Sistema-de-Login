@@ -14,8 +14,3 @@
   - Caso o usuário faça login com o email e senha corretamente, deverá mostrar um popup com a seguinte mensagem: "Login successful", caso contrário, deverá mostrar a seguinte mensagem: "Login failed".<br>
   - Os links de "Esqueci minha senha" e "Cadastre-se" são links normais, mas não serão direcionados a local nenhum.
 </div><br>
-
-<div>
-    <h2>Resultado</h2>
-    <img src="https://i.imgur.com/Mr0y7Zx.png" alt="tela 1">
-</div><br>
